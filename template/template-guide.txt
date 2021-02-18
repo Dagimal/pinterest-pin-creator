@@ -1,0 +1,4 @@
+template-id :
+
+title : main-title
+image : main-img
