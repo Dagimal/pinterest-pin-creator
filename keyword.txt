@@ -1,5 +1,0 @@
-cat
-dog
-elephant
-cute
-plane
