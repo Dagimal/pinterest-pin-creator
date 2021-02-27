@@ -1,1 +1,2 @@
 svglue
+bing-image-urls
